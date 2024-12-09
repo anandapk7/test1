@@ -19,4 +19,4 @@ users: actions/checkout@v3
 uses: peaceiris/actions-gh-pages@v4
 with:
 github_token:${{secrets.GITHUB_TOKEN}}
-publish_dir: ./Devops/BasicGit.html|
+publish_dir: ./DEVOPS/projects/test1/basicgit.html
